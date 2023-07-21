@@ -15,9 +15,9 @@ const char* password = "obrigado";
 
 WiFiClient client;
 
-#define APP_KEY "f2530a67-b480-4886-b47a-3ddae8aa3bee"
-#define APP_SECRET "b5cd3991-4e00-41ad-bf0b-a0ae80765bcc-67459ab0-4860-4f47-a818-8d01853112e2"
-#define SWITCH_ID  "6489edd9743f91207036cc01"
+#define APP_KEY ""
+#define APP_SECRET ""
+#define SWITCH_ID  ""
 
 /*
  * Setup
